@@ -6,7 +6,7 @@ import HomeStack from "./HomeStack";
 import Search from "../screens/Search";
 import Library from "../screens/Library";
 import Premium from "../screens/Premium";
-import CreatePlaylist from "../screens/CreatePlayList";
+import CreatePlayList from "../screens/CreatePlayList";
 
 
 //Instanciando um objeto de navegacao do tipo bottom tab
